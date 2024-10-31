@@ -15,7 +15,7 @@ except:
     print('wrong emailid or password')
     print('try again')
 # changing directory to where excel file is located
-os.chdir('C:/Users/Faizan/Desktop/EMAILIDS')
+os.chdir('C:/Users/Deepu/Desktop/EMAILIDS')
 print('directory changed')
 # reading excel file
 try:
